@@ -1,0 +1,15 @@
+tree_explorer
+tree_explorer.dSYM/
+tree_explorer.exe
+student_tests
+student_tests.dSYM/
+student_tests.exe
+*.o
+*.obj
+*.exe
+.DS_Store
+.vs/
+Debug/
+Release/
+build/
+cmake-build-debug/
